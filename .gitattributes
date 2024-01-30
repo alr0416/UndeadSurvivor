@@ -154,3 +154,5 @@ Assets/Plugins/**       linguist-vendored
 
 # Spine export file for Unity
 *.skel.bytes            lfs
+
+*.dylib                 lfs
